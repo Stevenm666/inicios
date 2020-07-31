@@ -1,0 +1,59 @@
+p{		text-align: center;
+		font-family: Arial;
+		font-weight:500;
+		font-size: 25px;	}
+
+
+h1.titulo{text-align: center;
+		font-family: Arial;
+		font-weight:bold;
+		font-size: 40px;
+		}
+
+h1{text-align: center;
+		font-family: Arial;
+		font-weight:bold;
+		}
+
+table, th, td {
+	font-size: 25px;
+	text-align: center;
+	height: 48px;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.boton{
+        font-size:15px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#4CAF50;
+        border:0px;
+        width:60px;
+        height:19px;
+        border-radius: 6px;
+       }
+
+input{
+	border-radius: 8px;
+	height: 25px;
+	}
+
+select{
+	border-radius: 8px;
+	height: 25px;
+	}
+
+td.reg{height: 50px;}
